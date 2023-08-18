@@ -13,3 +13,4 @@ HabitPic is an innovative cross-platform habit tracker designed to inspire and m
 <img src="./pic1.png" alt="HabitPic Image 1" width="200"/> <img src="./pic2.png" alt="HabitPic Image 2" width="200"/> <img src="./pic3.png" alt="HabitPic Image 3" width="200"/>
 
 ## Technonlogies 
+
