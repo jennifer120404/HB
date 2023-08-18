@@ -13,4 +13,8 @@ HabitPic is an innovative cross-platform habit tracker designed to inspire and m
 <img src="./pic1.png" alt="HabitPic Image 1" width="200"/> <img src="./pic2.png" alt="HabitPic Image 2" width="200"/> <img src="./pic3.png" alt="HabitPic Image 3" width="200"/>
 
 ## Technonlogies 
+- **React Native**: A JavaScript framework for building native apps for Android and iOS.
+- **JavaScript**: The primary programming language used to develop HabitPic.
+- **Expo**: An open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React.
+- **Firebase**: A cloud-based NoSQL database for real-time data management and storage.
 
