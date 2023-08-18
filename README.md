@@ -8,7 +8,6 @@ HabitPic is an innovative cross-platform habit tracker designed to inspire and m
 - **Daily Progress Pictures**: Users can upload daily pictures to track their habit progress visually.
 - **Firebase Data Management**: The app uses Firebase for secure, real-time data management and storage of user information and habits.
 - **Cross-platform Compatibility**: HabitPic leverages Expo's toolset and integrated modules to ensure seamless functionality on Android, iOS, and web platforms.
-<br/>
 <img src="./pic1.png" alt="HabitPic Image 1" width="200"/> <img src="./pic2.png" alt="HabitPic Image 2" width="200"/> <img src="./pic3.png" alt="HabitPic Image 3" width="200"/>
 
 ## Technonlogies 
